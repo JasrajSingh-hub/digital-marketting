@@ -1,0 +1,14 @@
+*{
+    background-color: #F6F4F0;
+}
+
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 25px;
+}
+
+.navigation img{
+    height: 150px;
+}
